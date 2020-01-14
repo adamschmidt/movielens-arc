@@ -1,0 +1,55 @@
+[
+    {
+        "id": "a166f77e-d577-49e3-95d7-d148e464a018",
+        "name": "user_id",
+        "description": "The user ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "primaryKey": false,
+        "type": "integer",
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    },
+    {
+        "id": "55d382a3-d1d8-440d-becf-959fc5c591eb",
+        "name": "movie_id",
+        "description": "The user ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "primaryKey": false,
+        "type": "integer",
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    },
+    {
+        "id": "f457e562-5c7a-4215-a754-ab749509f3fb",
+        "name": "rating",
+        "description": "The user ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "primaryKey": false,
+        "type": "decimal",
+        "scale": 2,
+        "precision": 5,
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    },
+    {
+        "id": "ea80d972-9a5b-44f6-9a7a-c5c6aadf09f7",
+        "name": "timestamp",
+        "description": "The user ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "type": "integer",
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+version: '3'
+services:
+  mydb:
+    image: triplai/arc-jupyter:arc-jupyter_1.9.3_scala_2.12_hadoop_2.9.2_1.0.0
+    ports:
+      - "8888:8888"
+    volumes:
+      - "./data:/data"
+      - "./src:/home/jovyan/src"
+      - "./model:/model"
