@@ -1,0 +1,41 @@
+[
+    {
+        "id": "f0c5713f-4376-4aeb-bd3e-b83124c88bf8",
+        "name": "movieId",
+        "description": "The user ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "primaryKey": false,
+        "type": "integer",
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    },
+    {
+        "id": "4b6aaff3-d49f-4838-a8a2-ebcf2771ed46",
+        "name": "title",
+        "description": "The movie ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "primaryKey": false,
+        "type": "string",
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    },
+    {
+        "id": "f4f6a8fe-dca5-483b-8fd9-5bed2b35cf26",
+        "name": "genres",
+        "description": "The movie ID that submitted the rating",
+        "trim": true,
+        "nullable": true,
+        "primaryKey": false,
+        "type": "string",
+        "nullableValues": [
+            "",
+            "null"
+        ]
+    }
+]

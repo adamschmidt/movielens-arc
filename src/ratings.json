@@ -1,7 +1,7 @@
 [
     {
         "id": "a166f77e-d577-49e3-95d7-d148e464a018",
-        "name": "user_id",
+        "name": "userId",
         "description": "The user ID that submitted the rating",
         "trim": true,
         "nullable": true,
@@ -14,7 +14,7 @@
     },
     {
         "id": "55d382a3-d1d8-440d-becf-959fc5c591eb",
-        "name": "movie_id",
+        "name": "movieId",
         "description": "The user ID that submitted the rating",
         "trim": true,
         "nullable": true,
