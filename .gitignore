@@ -1,3 +1,4 @@
 data
 model/*
 src/.ipynb_checkpoints
+src/spark-warehouse
