@@ -8,6 +8,7 @@ services:
       - --NotebookApp.token=''
     ports:
       - "8888:8888"
+      - "4040:4040"
     volumes:
       - "./data:/data"
       - "./src:/home/jovyan/src"
