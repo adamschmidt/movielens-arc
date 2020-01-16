@@ -1,6 +1,6 @@
 # Arc Movie Recommender Implementation
 
-Implementation of a movie recommendation pipeline using [MovieLens](https://grouplens.org/datasets/movielens/) data. Inspiration came from [this](https://www.codementor.io/@jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw) article on codementor.
+Implementation of a movie recommendation pipeline using [MovieLens](https://grouplens.org/datasets/movielens/) data. Inspiration came from [this](https://www.codementor.io/@jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw) article on codementor and the Spark documentation on [collaborative filtering](https://spark.apache.org/docs/latest/ml-collaborative-filtering.html).
 
 This repo is built on the [arc](https://arc.tripl.ai/) data pipeline framework.
 
